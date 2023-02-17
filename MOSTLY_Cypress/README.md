@@ -19,7 +19,8 @@ Open the Cypress test runner:
 
 Run tests in headless mode (Electron and Chrome commands for example below):
 
-   `npm run cypress:run `
+   `npm run cypress:run`
+   
    `npm run cypress:run:chrome`
 
 ## Debugging failed CI tests
