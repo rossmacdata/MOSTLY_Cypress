@@ -26,6 +26,7 @@ Run tests in headless mode (Electron and Chrome commands for example below):
 ## Debugging failed CI tests
 
 - The `cypress-failed-log` plugin will display the Cypress commands of any failed test in the CI log. This can help provide context of what hapenned leading up to the test failure.
+
 - The result of the Cypress run is saved as an artifact in GitHub, you can find it on the summary page of the Action workflow. Inside the zip file you will find screenshots, videos, and logs of any failed tests.
 
 ## Reporting
