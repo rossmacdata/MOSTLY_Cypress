@@ -3,7 +3,8 @@ This document describes the steps required to setip and run the Cypress tests de
 
 ## Setup
 
-- run `npm install` on the root of the project.
+- Clone repo or save files to local machine.
+- Run `npm install` on the root of the project.
 
 ## Overview
 
