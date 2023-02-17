@@ -32,7 +32,7 @@ Run tests in headless mode (Electron and Chrome commands for example below):
 
 ## Reporting
 
-In Cypress test runner, reporting is shown in real time. See video below of a successful test run.
+In Cypress test runner, reporting is shown in real time.
 
 Following a headless run, report is show in the console, or a simple mochawesome report can be generated using the following command from project root.
 
